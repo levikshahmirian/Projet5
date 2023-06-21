@@ -1,0 +1,8 @@
+streamlit
+pandas
+nltk==3.8.1
+contractions==0.1.73
+spacy==3.5.3
+scikit-learn==1.2.2
+numpy==1.23.5
+filetype
